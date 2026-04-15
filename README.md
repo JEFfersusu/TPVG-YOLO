@@ -1,4 +1,4 @@
-# MiT Loss
+# TPVG-YOLO
 **Official PyTorch implementation of "TPVG-YOLO: Twined-Path Convolution and Vision-Gated Fusion for Efficient PCB Defect Detection
 "**.
 
